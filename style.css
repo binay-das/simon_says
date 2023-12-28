@@ -1,0 +1,41 @@
+body{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.btn{
+    height: 200px;
+    width: 200px;
+    border: 5px solid;
+    border-radius: 20%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.btn:hover{
+    cursor: pointer;
+}
+.btn-container{
+    display:grid ;
+    grid-template-columns: auto auto;
+    gap: 10px;
+}
+.red{
+    background-color: #d95980;
+}
+.yellow{
+    background-color: #f99b45;
+}
+.green{
+    background-color: #63aac0;
+}
+.purple{
+    background-color: #9f5dcf;
+}
+.flash{
+    background-color: white;
+}
+.userFlash{
+    background-color: gray;
+}
