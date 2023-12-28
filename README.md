@@ -1,3 +1,3 @@
-Simon Says game\n
+Simon Says game<br>
 Link: https://binay-das.github.io/simon_says/
-\nMade this using JavaScript
+<br>Made this using JavaScript
